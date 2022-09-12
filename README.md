@@ -7,7 +7,7 @@
 ![Desktop-version-light](https://user-images.githubusercontent.com/93816022/189619602-c9d8cf81-8b84-4763-90a2-1cc5b2dd4ac6.png)
 ![Mobile-version-light](https://user-images.githubusercontent.com/93816022/189619730-b0d7fa4a-eb2d-411b-afc4-2e124c7afce1.png)
 
-## Light Mode Preview
+## Dark Mode Preview
 
 ***
 
