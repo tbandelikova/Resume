@@ -1,4 +1,5 @@
 # Tatsiana Bandelikova Resume
+View resume *[Resume](https://tbandelikova.github.io/Resume/)*.
 
 ## Light Mode Preview
 
